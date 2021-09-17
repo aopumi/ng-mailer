@@ -15,7 +15,7 @@
 https://www.npmjs.com/package/@angular/cli
 
 ```npm
-+ npm install -g @angular/cli@9.1.15
-+ npm install primeicons@9.1.3 --save
-+ npm install primeicons --save 
+npm install -g @angular/cli@9.1.15
+npm install primeicons@9.1.3 --save
+npm install primeicons --save 
 ```
